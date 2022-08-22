@@ -1,1 +1,1 @@
-# Todo-List
+In this project admin is a user who wants to create a to do list ,so that he won’t forget the things which he want to do. The user will create a to do list and he can add or delete the works he want to do and he can see the list of works which he scheduled.
